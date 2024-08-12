@@ -1,4 +1,3 @@
-
 import errorMessages from '../utils/errorMessages.js';
 
 const errorHandler = (err, req, res, next) => {
