@@ -174,3 +174,4 @@ class CartDAO {
 }
 
 export default new CartDAO();
+
